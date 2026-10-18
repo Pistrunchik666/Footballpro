@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Football pro",
+      "hasCanvas": false,
+      "bodyTextLen": 200,
+      "bodyTextHash": "f588786ba502ce544b0144b6cc24879007d3bdd3cc3b46db038671ba11f8c813",
+      "bodyTextPrefix": "СЕЗОН 2026/27 Football pro Нажмите «Играть» — матч сразу идёт на",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Football pro",
+      "hasCanvas": false,
+      "bodyTextLen": 200,
+      "bodyTextHash": "f588786ba502ce544b0144b6cc24879007d3bdd3cc3b46db038671ba11f8c813",
+      "bodyTextPrefix": "СЕЗОН 2026/27 Football pro Нажмите «Играть» — матч сразу идёт на",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
